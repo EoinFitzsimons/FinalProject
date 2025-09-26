@@ -1,0 +1,17 @@
+# Core API Framework
+fastapi
+uvicorn
+
+# Data Science & Simulation
+numpy
+pandas
+scipy
+
+# AI/ML Framework
+torch
+
+# Database (SQLite is builtin, but we may need utilities)
+# sqlite3 is builtin with Python
+
+# Optional utilities
+requests  # For external API calls if needed
